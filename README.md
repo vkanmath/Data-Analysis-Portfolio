@@ -1,4 +1,3 @@
 # Data-Analysis-Projects
-This Repository will hold all of the code  from the Portfolio Projects which I do create.
-
-Please feel free give me a feedback in order to enhance my coding skills and become a Data Analyst.
+This Repository will hold all of my projects with code related to Data Analysis.
+Please feel free to give me a feedback in order to enhance my coding skills and become an employee in Data Analysis Field.
